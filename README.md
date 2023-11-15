@@ -1,5 +1,2 @@
 # learning-about-version-control
-# learning-about-version-control
-# learning-about-version-control
-# learning-about-version-control
-# learning-about-version-control
+Author: Tianhong Zhao
